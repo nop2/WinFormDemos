@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathQuiz", "MathQuiz\MathQu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatchingGame", "MatchingGame\MatchingGame.csproj", "{4D9B964F-0D58-4BA4-8FF4-F954A5CF532E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo1", "Demo1\Demo1.csproj", "{BB077FB7-4E51-443D-B1BE-18F7C52495AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo1", "Demo1\Demo1.csproj", "{BB077FB7-4E51-443D-B1BE-18F7C52495AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutsDemo", "LayoutsDemo\LayoutsDemo.csproj", "{18A1C740-9E60-4B5F-8791-E54B53D8E352}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{BB077FB7-4E51-443D-B1BE-18F7C52495AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB077FB7-4E51-443D-B1BE-18F7C52495AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB077FB7-4E51-443D-B1BE-18F7C52495AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18A1C740-9E60-4B5F-8791-E54B53D8E352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A1C740-9E60-4B5F-8791-E54B53D8E352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A1C740-9E60-4B5F-8791-E54B53D8E352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A1C740-9E60-4B5F-8791-E54B53D8E352}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

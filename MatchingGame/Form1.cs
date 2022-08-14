@@ -4,6 +4,7 @@ namespace MatchingGame
     {
         private Random random = new Random();
 
+        // 字体文件中对应的图标
         private List<string> icons = new()
         {
             "!", "!", "N", "N", ",", ",", "k", "k",
@@ -44,7 +45,7 @@ namespace MatchingGame
         {
             // 在计时器未运行，即没有点击完两次的时候
             // 确保只能点击两个
-            if(timer1.Enabled) return;
+            if (timer1.Enabled) return;
 
             if (sender is not Label clickedLabel) return;
 
